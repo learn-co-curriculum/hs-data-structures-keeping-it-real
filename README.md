@@ -3,7 +3,8 @@ tags: culture
 type: keeping-it-real
 ---
 ###Keeping it Real
-<img src="https://s3.amazonaws.com/after-school-assets/arrays.png" width="400px" align="right" hspace="10">
+
+<img src="https://s3.amazonaws.com/after-school-assets/arrays.png" width="500px" hspace="10">
 
 1. [The Benefits of Failing at French](http://www.nytimes.com/2014/07/16/opinion/16alexander.html?_r=0) - On why trying to learn something and struggling is still incredibly valuable.
 
