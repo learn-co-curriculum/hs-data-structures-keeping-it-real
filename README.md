@@ -1,7 +1,4 @@
----
-tags: culture
-type: keeping-it-real
----
+
 ###Keeping it Real
 
 <img src="https://s3.amazonaws.com/after-school-assets/arrays.png" width="500px">
