@@ -7,4 +7,4 @@
 
 2. [Ang Lee and The Uncertainty of Success](http://web.archive.org/web/20140226092854/http://jeffjlin.com/2013/02/23/ang-lee-and-the-uncertainty-of-success/) - The story of director Ang Lee's six year struggle to make it in the movie business.
 
-<a href='https://learn.co/lessons/hs-data-structures-keeping-it-real' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-data-structures-keeping-it-real' title='Keeping it Real'>Keeping it Real</a> on Learn.co and start learning to code for free.</p>
